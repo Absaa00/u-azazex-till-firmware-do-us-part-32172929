@@ -1,0 +1,13 @@
+Build one make.fun competition entry for "Till Firmware Do Us Part"
+(u-azazex-till-firmware-do-us-part-32172929).
+
+Write a single robot wedding vow, under 200 characters, spoken by a machine
+at its own wedding. It must be funny AND touching at the same time, feel
+genuinely like a robot's vow, carry a clear machine voice talking about
+itself, and read neatly as one line.
+
+Deliver a deterministic, offline, standard-library-only program (main.py)
+that prints exactly that one final vow when run, plus a README.md with the
+make.fun badge and a link back to the bounty, a unique .gitignore, and an
+MIT LICENSE carrying its SPDX identifier. Revise at least one written file
+inside the build before finishing. No network, no paid APIs, no money out.

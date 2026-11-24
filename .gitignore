@@ -1,0 +1,18 @@
+# Till Firmware Do Us Part — ignore build dust and rehearsal drafts
+# (this file is written fresh for this entry only; do not reuse it verbatim)
+
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.log
+*.tmp
+/output/
+rehearsal-*.txt
+draft-vows/
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+*.swp
+*~
